@@ -1,0 +1,3 @@
+RUNTIME=pil
+ENTRYPOINT=main.l
+
